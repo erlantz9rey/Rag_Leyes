@@ -1,0 +1,5 @@
+[theme]
+primaryColor = "#ddb42c"          # Dorado legal para botones y acentos
+backgroundColor = "#ffffff"       # Fondo principal blanco (limpio)
+textColor = "#203250"             # Gris muy oscuro para lectura fácil
+font = "serif"                    # Fuente con serifa (estilo editorial/legal)

@@ -1,0 +1,3 @@
+{"query": "¿Cuál es el límite de velocidad para un autobús en una autovía?", "ground_truth": "El límite máximo para autobuses, vehículos derivados de turismo y mixtos adaptables en autovías y autopistas es de 100 km/h.", "relevant_ids": ["img_5_velocidades.jpg"]}
+{"query": "¿Quién hereda en segundo lugar según la pirámide de sucesiones?", "ground_truth": "Después de los hijos y descendientes, los segundos en el orden de herencia son los padres y ascendientes.", "relevant_ids": ["img_4_herencias.jpg"]}
+{"query": "¿Qué tasa de alcohol tendría una mujer de 60kg tras beber dos vasos de vino?", "ground_truth": "Para una mujer de entre 50 y 70 kg, el consumo de 2 vasos de vino produce una tasa estimada de entre 0,50 y 0,69 g/l.", "relevant_ids": ["img_0_consumosAlcohol.png"]}

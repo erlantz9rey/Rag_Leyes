@@ -1,0 +1,176 @@
+[
+    {
+        "archivo":"Pdfs/Animales.pdf",
+        "tipo_norma": "Ley",
+        "numero": "17/2021",
+        "anio": "2021",
+        "nombre": "Ley de modificación del Código Civil, Ley Hipotecaria y Ley de Enjuiciamiento Civil sobre animales",
+        "categoria": "Derecho Civil",
+        "palabras_clave": ["animales", "bienestar animal", "protección"],
+        "objeto": "Reconocer a los animales como seres vivos con sensibilidad y modificar leyes civiles y procesales relacionadas.",
+        "fuente": "BOE-A-2021-20727"
+    },
+    {
+        "archivo":"Pdfs/Conduccion.pdf",
+        "tipo_norma": "Ley Orgánica",
+        "numero": "11/2022",
+        "anio": "2022",
+        "nombre": "Ley Orgánica 11/2022, de modificación del Código Penal en materia de imprudencia en la conducción de vehículos a motor o ciclomotor",
+        "categoria": "Derecho Penal",
+        "palabras_clave": ["tráfico", "conducción imprudente", "Código Penal", "accidentes", "responsabilidad penal"],
+        "objeto": "Modificar el Código Penal para mejorar la regulación de la imprudencia en la conducción y ajustar penas, reforzando la seguridad jurídica.",
+        "fuente": "BOE-A-2022-14965"
+    },
+    {
+        "archivo":"Pdfs/Contratos.pdf",
+        "tipo_norma": "Ley",
+        "numero": "3/2017",
+        "anio": "2017",
+        "nombre": "Ley 3/2017, del libro sexto del Código Civil de Cataluña, relativo a obligaciones y contratos",
+        "categoria": "Derecho Civil",
+        "palabras_clave": ["contratos", "obligaciones", "compraventa", "permuta", "Código Civil Cataluña"],
+        "objeto": "Establecer la estructura del libro sexto del Código Civil de Cataluña, regular contratos principales y sustituir la compilación anterior, adaptando la normativa a un código sistemático.",
+        "fuente": "BOE-A-2017-2466"
+    },
+    {
+        "archivo":"Pdfs/DerechosHumanos.pdf",
+        "tipo_norma": "Informe institucional",
+        "nombre": "Informe del Defensor del Pueblo sobre protección y promoción de los derechos humanos en España",
+        "categoria": "Derechos Humanos",
+        "palabras_clave": ["Defensor del Pueblo", "derechos fundamentales", "igualdad", "supervisión administrativa", "recurso de amparo"],
+        "objeto": "Describir el funcionamiento del Defensor del Pueblo y cómo protege y promueve los derechos humanos en España.",
+        "referencia_legal": "Ley Orgánica 3/1981"
+    },
+    {
+        "archivo":"Pdfs/DerechosHumanosONU.pdf",
+        "tipo_norma": "Declaración internacional",
+        "nombre": "Declaración Universal de Derechos Humanos",
+        "categoria": "Derechos Humanos",
+        "palabras_clave": ["dignidad humana", "igualdad", "libertad", "justicia", "paz", "Naciones Unidas"],
+        "objeto": "Establecer los derechos humanos universales, proteger la libertad y la dignidad de todas las personas y fomentar relaciones amistosas entre naciones.",
+        "fecha_adopcion": "10/12/1948",
+        "organismo": "Asamblea General de la ONU",
+        "resolucion": "217 A (III)"
+    },
+    {
+        "archivo":"Pdfs/FraudeFiscal.pdf",
+        "tipo_norma": "Ley Orgánica",
+        "numero": "7/2012",
+        "anio": "2012",
+        "nombre": "Ley Orgánica 7/2012, de modificación del Código Penal en materia de transparencia y lucha contra el fraude fiscal y en la Seguridad Social",
+        "categoria": "Derecho Penal",
+        "palabras_clave": ["Código Penal", "fraude fiscal", "Seguridad Social", "transparencia", "responsabilidad penal"],
+        "objeto": "Modificar el Código Penal para reforzar la transparencia, responsabilidad penal de partidos y sindicatos y mejorar la persecución del fraude fiscal y a la Seguridad Social.",
+        "fuente": "BOE-A-2012-15647"
+    },
+    {
+        "archivo":"Pdfs/GuardiaCivil.pdf",
+        "tipo_norma": "Orden ministerial",
+        "numero": "PJC/849/2024",
+        "anio": "2024",
+        "nombre": "Orden PJC/849/2024, de implementación, evaluación y seguimiento del Código de Conducta del personal de la Guardia Civil",
+        "categoria": "Derecho Administrativo",
+        "palabras_clave": ["Guardia Civil", "Código de Conducta", "ética institucional", "integridad", "formación"],
+        "objeto": "Implementar y supervisar el Código de Conducta del personal de la Guardia Civil, promoviendo valores institucionales, ética y confianza ciudadana.",
+        "fuente": "BOE-A-2024-16600"
+    },
+    {
+        "archivo": "Pdfs/MaltratoAnimal.pdf",
+        "tipo_norma": "Ley Orgánica",
+        "numero": "3/2023",
+        "anio": "2023",
+        "nombre": "Ley Orgánica 3/2023, de modificación de la Ley Orgánica 10/1995, del Código Penal, en materia de maltrato animal",
+        "categoria": "Derecho Penal",
+        "palabras_clave": ["maltrato animal", "protección animal", "Código Penal", "delitos", "agravantes", "animales vertebrados"],
+        "objeto": "Modificar el Código Penal para reforzar la protección penal de los animales, incluyendo nuevas agravantes, medidas cautelares y ampliando la protección a animales vertebrados, domésticos y silvestres.",
+        "fuente": "BOE-A-2023-7935"
+    },
+    {
+        "archivo": "Pdfs/Matrimonio.pdf",
+        "tipo_norma": "Ley",
+        "numero": "11/1981",
+        "anio": "1981",
+        "nombre": "Ley 11/1981, de modificación del Código Civil en materia de filiación, patria potestad y régimen económico del matrimonio",
+        "categoria": "Derecho Civil",
+        "palabras_clave": ["filiación", "patria potestad", "régimen económico matrimonial", "Código Civil", "derechos de los hijos", "determinación de filiación"],
+        "objeto": "Modificar el Código Civil para regular la filiación, la patria potestad y el régimen económico del matrimonio, estableciendo efectos legales, prueba y determinación de la filiación, derechos y obligaciones de padres e hijos.",
+        "fuente": "BOE-A-1981-11198"
+    },
+    {
+        "archivo": "Pdfs/DelitosLibertadSexual.pdf",
+        "tipo_norma": "Ley Orgánica",
+        "numero": "4/2023",
+        "anio": "2023",
+        "nombre": "Ley Orgánica 4/2023, de modificación de la Ley Orgánica 10/1995, del Código Penal, en los delitos contra la libertad sexual, la Ley de Enjuiciamiento Criminal y la Ley Orgánica 5/2000, reguladora de la responsabilidad penal de los menores",
+        "categoria": "Derecho Penal",
+        "palabras_clave": ["libertad sexual", "delitos sexuales", "Código Penal", "responsabilidad penal de menores", "agresión sexual", "protección de víctimas", "modificación legislativa"],
+        "objeto": "Modificar el Código Penal y leyes relacionadas para reforzar la protección penal en delitos contra la libertad sexual, blindar las penas en casos graves, reparar omisiones legislativas y adecuar la responsabilidad penal de personas y menores, especialmente en relación con menores de 16 años y difusión de contenidos sexuales.",
+        "fuente": "BOE-A-2023-10213"
+    },
+    {
+        "archivo": "Pdfs/MenoresDerechos.pdf",
+        "tipo_norma": "Ley Orgánica",
+        "numero": "1/1996",
+        "anio": "1996",
+        "nombre": "Ley Orgánica 1/1996, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil",
+        "categoria": "Derecho Civil / Derecho de Menores",
+        "palabras_clave": ["menores", "protección jurídica", "desamparo", "tutela", "adopción", "Código Civil", "Ley de Enjuiciamiento Civil", "derechos del menor", "acogimiento", "centros de protección"],
+        "objeto": "Establecer un marco legal para la protección jurídica del menor, regulando derechos y deberes, medidas de protección en situaciones de desprotección, tutela, adopción, acogimiento familiar y residencial, así como la acción administrativa orientada al interés superior del menor.",
+        "fuente": "BOE-A-1996-1069"
+    },
+    {
+        "archivo": "Pdfs/Nacionalidad.pdf",
+        "tipo_norma": "Ley",
+        "numero": "18/1990",
+        "anio": "1990",
+        "nombre": "Ley 18/1990, de reforma del Código Civil en materia de nacionalidad",
+        "categoria": "Derecho Civil",
+        "palabras_clave": ["nacionalidad", "Código Civil", "adquisición de nacionalidad", "opción de nacionalidad", "posesión de estado", "filiación", "ciudadanía española"],
+        "objeto": "Reformar el Código Civil para establecer un sistema claro y coherente de adquisición, pérdida, conservación y recuperación de la nacionalidad española, corregir deficiencias y lagunas de la legislación anterior, y regular la nacionalidad por filiación, nacimiento en España y posesión de estado.",
+        "fuente": "BOE-A-1990-30520"
+    },
+    {
+        "archivo": "Pdfs/SeguridadVial.pdf",
+        "tipo_norma": "Real Decreto Legislativo",
+        "numero": "6/2015",
+        "anio": "2015",
+        "nombre": "Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial",
+        "categoria": "Tráfico y Seguridad Vial",
+        "palabras_clave": ["tráfico", "circulación", "vehículos a motor", "seguridad vial", "permisos de conducción", "infracciones", "sanciones", "Registro de Víctimas", "puntos del carnet", "autorizaciones administrativas"],
+        "objeto": "Aprobar un texto refundido que integra, armoniza y clarifica la legislación sobre tráfico, circulación de vehículos a motor y seguridad vial, consolidando la normativa aplicable, incluyendo permisos de conducción, infracciones, sanciones, autorizaciones administrativas y el Registro Nacional de Víctimas de Accidentes de Tráfico.",
+        "fuente": "BOE-A-2015-11722"
+    },
+    {
+        "archivo": "Pdfs/SexoDiscriminacion.pdf",
+        "tipo_norma": "Ley",
+        "numero": "11/1990",
+        "anio": "1990",
+        "nombre": "Ley 11/1990, de 15 de octubre, sobre reforma del Código Civil en aplicación del principio de no discriminación por razón de sexo",
+        "categoria": "Derecho Civil / Igualdad de género",
+        "palabras_clave": ["Código Civil", "igualdad de género", "no discriminación", "patria potestad", "filiación", "adopción", "sucesiones", "matrimonio", "régimen económico matrimonial"],
+        "objeto": "Eliminar las discriminaciones por razón de sexo en el Código Civil, actualizando normas sobre patria potestad, filiación, adopción, matrimonio y sucesiones para garantizar la plena efectividad del principio constitucional de igualdad.",
+        "fuente": "BOE-A-1990-25089"
+    },
+    {
+        "archivo": "Pdfs/Terrorismo.pdf",
+        "tipo_norma": "Ley Orgánica",
+        "numero": "1/2019",
+        "anio": "2019",
+        "nombre": "Ley Orgánica 1/2019, de 20 de febrero, por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, para transponer Directivas de la Unión Europea en los ámbitos financiero y de terrorismo, y abordar cuestiones de índole internacional",
+        "categoria": "Derecho Penal / Unión Europea / Delitos internacionales",
+        "palabras_clave": ["Código Penal", "UE", "directivas europeas", "delitos financieros", "abuso de mercado", "terrorismo", "fraude UE", "tráfico de órganos", "corrupción", "prevención penal"],
+        "objeto": "Transponer al ordenamiento interno las Directivas de la Unión Europea relativas a sanciones penales por abuso de mercado, lucha contra el terrorismo y fraude financiero; completar la regulación de delitos de tráfico de órganos humanos y de corrupción conforme a normativa internacional y directrices de GRECO.",
+        "fuente": "BOE-A-2019-2363"
+    },
+    {
+        "archivo": "ProcedimientoPenal.png",
+        "tipo_documento": "esquema",
+        "categoria": "Procedimiento Penal",
+        "subcategorias": ["Fases del proceso", "Órganos judiciales", "Actos procesales"],
+        "fases": ["Investigación", "Instrucción", "Juicio Oral", "Sentencia", "Apelación"],
+        "organos": ["Juez de Instrucción", "Ministerio Fiscal", "Tribunal", "Policía Judicial"],
+        "actos": ["Detención", "Imputación", "Diligencias previas", "Pruebas", "Sentencia"],
+        "palabras_clave": ["delito", "acusado", "fiscal", "audiencia", "juicio oral", "recursos"],
+        "fuente": "Manual de Derecho Penal / Imagen"
+    }
+]
