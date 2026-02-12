@@ -1,0 +1,38 @@
+# --- Framework Core & Orquestación ---
+langchain>=0.2.0
+langchain-community
+langchain-google-genai
+langchain-groq
+langgraph
+langchain-ollama
+
+# --- IA y Procesamiento de Lenguaje ---
+google-generativeai
+sentence-transformers
+sentence-transformers[train]  # Para el re-ranker
+huggingface-hub
+
+# --- Base de Datos Vectorial ---
+chromadb
+
+# --- Backend y Servidor API ---
+fastapi
+uvicorn
+pydantic
+python-dotenv
+
+# --- Frontend (Streamlit) y Multimedia ---
+streamlit
+requests
+audio-recorder-streamlit
+st-copy-to-clipboard
+edge-tts
+openai  # Usado en tu script para OpenAI Client
+speechrecognition
+whisper-openai  # openai-whisper
+fpdf            # Generación de reportes PDF
+pillow          # Manejo de imágenes (PIL)
+
+# --- Procesamiento de Documentos y Utilidades ---
+PyPDF2
+pathlib

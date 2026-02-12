@@ -1,5 +1,6 @@
 [theme]
-primaryColor = "#ddb42c"          # Dorado legal para botones y acentos
-backgroundColor = "#ffffff"       # Fondo principal blanco (limpio)
-textColor = "#203250"             # Gris muy oscuro para lectura fácil
-font = "serif"                    # Fuente con serifa (estilo editorial/legal)
+primaryColor = "#D4AF37"          # Dorado para resaltar lo importante
+backgroundColor = "#EFEBE9"       # Beige/Beige claro para el fondo
+textColor = "#3E2723"             # Marrón oscuro casi negro para leer bien
+secondaryBackgroundColor = "#D7CCC8" # Marrón grisáceo suave para widgets
+font = "serif"
