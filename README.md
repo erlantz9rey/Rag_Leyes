@@ -74,8 +74,6 @@ ProyectoRag
 
 2. Instalación
     Bash
-    git clone https://github.com/tu-usuario/legalmind-rag.git
-    cd legalmind-rag
     pip install -r requirements.txt
 
 -------------------------------------------------------------------------------------------------------------------
@@ -128,7 +126,7 @@ Pregunta -> Categorizar -> Query Rewriting -> Embeddings (top 10) - > Cross-Enco
 
 4-Embeddings (Top 10): Búsqueda semántica en ChromaDB utilizando el modelo multilingual-e5-small.
 
-5-Cross-Encoder (Re-ranker): Re-evaluación de los resultados con un modelo ms-marco-MiniLM para eliminar ruido y asegurar la máxima relevancia.
+5-Cross-Encoder (Re-ranker): Re-evaluación de los resultados para eliminar ruido y asegurar la máxima relevancia.
 
 6-Analizar Gemini: Procesamiento multimodal (Vision) para integrar pruebas visuales o documentos escaneados en la respuesta.
 
