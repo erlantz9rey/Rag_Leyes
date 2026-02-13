@@ -139,10 +139,10 @@ Pregunta -> Categorizar -> Query Rewriting -> Embeddings (top 10) - > Cross-Enco
 ##  REPORTE DE CALIDAD RAGAS (Con Ground Truth Manual)
 ##########################################################
 
- - FIDELIDAD (No Alucinacion):    57.9%
+ - FIDELIDAD (No Alucinacion):    75.9%
  - RELEVANCIA (Calidad Resp.):    3.26 / 5.0
- - EXACTITUD (vs Ground Truth):   3.66 / 5.0
- - CONTEXT RECALL (Chunks):       23.7%
+ - EXACTITUD (vs Ground Truth):   4.37 / 5.0
+ - CONTEXT RECALL (Chunks):       94.7%
 
 =========================================================================
 🏆 RESULTADOS FINALES: COMPARATIVA DE ESTRATEGIAS DE CHUNKING
